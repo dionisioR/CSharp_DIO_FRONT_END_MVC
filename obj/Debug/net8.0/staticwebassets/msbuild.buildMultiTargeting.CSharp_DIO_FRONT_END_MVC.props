@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharp_DIO_FRONT_END_MVC.props" />
+</Project>

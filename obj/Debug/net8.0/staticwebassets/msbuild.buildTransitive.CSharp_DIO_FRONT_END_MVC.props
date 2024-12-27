@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CSharp_DIO_FRONT_END_MVC.props" />
+</Project>
