@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_DIO_FRONT_END_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21a566b13591b7642c78aecddb1782eaa8e36f91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285e3cce6b329c9384a4656012e9673ca450e7a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_DIO_FRONT_END_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_DIO_FRONT_END_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
